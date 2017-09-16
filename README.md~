@@ -13,7 +13,7 @@ and others:
 
 You can clone the repositry and run the scripts to know what they do better using the folowing command:
 
-   *git clone https://github.com/rosalieper/some-shell-scripts*
+`` *git clone https://github.com/rosalieper/some-shell-scripts*
 
 You can equally contribute on the project by forking the repositry and making pull request
 
